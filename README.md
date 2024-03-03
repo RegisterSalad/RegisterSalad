@@ -1,6 +1,5 @@
 -  Hi, I’m @RegisterSalad
--  I’m interested in computer science, and electrical engineering
--  I'm currently working in Python to develop machine learning models for appliactions in the energy sector
+-  I’m interested in computer engineering.
 -  How to reach me:
       pacobalthaz@gmail.com
 
